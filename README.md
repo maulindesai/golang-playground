@@ -1,5 +1,4 @@
 # Learn Go (Golang) 📖
----
 
 ## Getting Started
 
