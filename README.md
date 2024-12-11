@@ -1,6 +1,4 @@
 # Learn Go (Golang) 📖
-
-Welcome to the **Learn Go** repository—a beginner-friendly guide to understanding and mastering the Go programming language! 🚀
 ---
 
 ## Getting Started
